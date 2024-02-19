@@ -5,9 +5,9 @@ metadata:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /$1
 spec:
-  ingressClassName: nginx
+  
   rules:
-    - host: hello-world.info
+    - host: kk.info
       http:
         paths:
           - path: /kk
