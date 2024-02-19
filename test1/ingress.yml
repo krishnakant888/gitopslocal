@@ -5,7 +5,7 @@ metadata:
   annotations:   
 spec:  
   rules:
-    - host: kk.info
+    - host: kk-world.info
       http:
         paths:
           - path: /kk
