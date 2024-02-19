@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: hello-world.info
+    - host: kk-world.info
       http:
         paths:
           - path: /kk
